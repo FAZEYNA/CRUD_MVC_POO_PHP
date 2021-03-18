@@ -7,4 +7,3 @@
     $contactController->viewManager();
 
     include_once "view/shared/footer.php";
-?>

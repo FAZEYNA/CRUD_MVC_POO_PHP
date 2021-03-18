@@ -4,7 +4,7 @@
         <a href="/COURS/PHP_L2/POO/CRUD_MVC_POO/index.php" class="btn btn-warning offset-6">Liste des Contacts</a>
     </div>
     <div class="card-body">
-        <form action="" method="POST">
+        <form action="/COURS/PHP_L2/POO/CRUD_MVC_POO/index.php?action=add" method="POST">
             <div class="form-group">
                 <label for="">Prénom</label>
                 <input type="text" class="form-control" name="prenom">

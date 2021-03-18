@@ -2,10 +2,10 @@
 <?php
     class Database
     {
-        private $host =  "localhost";
-        private $user =  "root";
+        private $host = "localhost";
+        private $user = "root";
         private $pass = "";
-        private $dbname = "";
+        private $dbname = "crud_mvc_poo";
 
         public $ds;
 
